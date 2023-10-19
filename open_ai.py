@@ -1,6 +1,4 @@
-# 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
 
-# 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
 import pyttsx3
 
 import datetime
