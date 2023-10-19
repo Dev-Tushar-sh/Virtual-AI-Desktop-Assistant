@@ -29,7 +29,7 @@ print(response)
 
 '''
 {
-  "id": "chatcmpl-7a7pEQBc0os9vSXjjjF0qSTWAG6G8",
+  "id": "*****************************",
   "object": "chat.completion",
   "created": 1688844244,
   "model": "gpt-3.5-turbo-0613",
