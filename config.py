@@ -1,4 +1,4 @@
-apikey = "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"
+apikey = "******************************************"
 
 
 # responce = {
